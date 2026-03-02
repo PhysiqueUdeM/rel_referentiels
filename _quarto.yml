@@ -1,5 +1,7 @@
 project:
   type: website
+  render:
+    - "!codes/"
 
 website:
   title: "REL-Physique"
