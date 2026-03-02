@@ -15,7 +15,7 @@ website:
       - minkowski.qmd
       - michelsonmorley.qmd
       - projectile.qmd
-    page-footer: "Version 1.0 (mars 2026)"
+  page-footer: "Version 1.0 (mars 2026)"
 
 format:
   html:
