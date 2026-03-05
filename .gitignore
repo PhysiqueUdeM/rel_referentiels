@@ -4,3 +4,4 @@
 quarto-session-temp/
 *.qarto_ipynb
 _site/
+docs/
