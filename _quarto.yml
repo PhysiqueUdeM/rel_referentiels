@@ -1,20 +1,20 @@
 project:
   type: website
   render:
-    - "*.qmd"
+    - "site/*.qmd"
     - "!codes/"
 
 website:
-  title: "REL-Physique"
+  title: "REL_referentiels"
   navbar:
     title: false
     left:
-      - href: index.qmd
+      - href: site/index.qmd
         text: Accueil
-      - about.qmd
-      - minkowski.qmd
-      - michelsonmorley.qmd
-      - projectile.qmd
+      - site/about.qmd
+      - site/minkowski.qmd
+      - site/michelsonmorley.qmd
+      - site/projectile.qmd
   page-footer: "Version 1.0 (mars 2026)"
 
 format:
