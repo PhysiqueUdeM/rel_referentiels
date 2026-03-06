@@ -6,14 +6,11 @@ format:
     highlight-style: github
 ---
 
-Ce site est une ressource éducative libre (REL) créée par Delphine Bouilly, André Garcia, Érika Le Bourdais, Samuel Poitras et Patrick Dufour, du département de physique de l’Université de Montréal. Merci également à Indiana Delsart, bibliothécaire, pour ses conseils et la mise en place du site. 
+Cette ressource éducative libre (REL) a été conçue par Delphine Bouilly, André Garcia, Érika Le Bourdais, Samuel Poitras et Patrick Dufour, du département de physique de l’Université de Montréal. 
 
-La création de cette ressource a été permise grâce au financement de la [FabriqueREL](https://fabriquerel.org/).
+Merci également à Indiana Delsart, bibliothécaire, pour ses conseils et la mise en place du site. 
 
-![](images/ccby.png){width=120 fig-align="left"}\
-L'ensemble du site est sous licence [CC-BY](https://creativecommons.org/licenses/by/4.0/). 
-Pour citer cette ressource :\
-Delphine Bouilly, André Garcia, Érika le Bourdais, Samuel Poitras, Patrick Dufour. (2026). Simulation et visualisation de référentiels en mécanique classique et relativiste. Université de Montréal. Licence [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+La création de cette ressource a été rendue possible grâce au financement de la [FabriqueREL](https://fabriquerel.org/).
 
 ::: {layout-ncol=3}
 ![](images/logo-UdeM-noir-bleu.png){height=100}
@@ -21,7 +18,13 @@ Delphine Bouilly, André Garcia, Érika le Bourdais, Samuel Poitras, Patrick Duf
 ![](images/F-REL_logo-coul.png){height=100}
 :::
 
-Ce site a été développé avec [Quarto](https://quarto.org/) et est hébergé sur [GitHub](https://github.com/PhysiqueUdeM/rel_referentiels/).\
-La conceptualisation et la réalisation des simulations ont été réalisées sans recours à des outils d’intelligence artificielle générative (IAg). Des outils d’IAg (ChatGPT-4.1, Claude Sonnet 4.6 et Microsoft 365 Copilot) ont été utilisés comme assistance technique pour la conception Web et la mise en ligne, ainsi que dans la révision des textes du guide pédagogique.  
+![](images/ccby.png){width=120 fig-align="left"}\
+« Simulation et visualisation de référentiels en mécanique classique et relativiste », © Delphine Bouilly, André Garcia, Érika Le Bourdais, Samuel Poitras et Patrick Dufour (2026), est sous licence [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). 
 
-Une version archivée de la ressource est disponible sur Papyrus, le dépôt institutionnel de l'Université de Montréal : <https://doi.org/10.71781/34279>
+La dernière version de cette ressource est disponible sur ce site, développé avec [Quarto](https://quarto.org/) et hébergé sur [GitHub](https://github.com/PhysiqueUdeM/rel_referentiels/).
+
+Une version archivée (Version 1.0) de la ressource est disponible sur Papyrus, le dépôt institutionnel de l'Université de Montréal : <https://doi.org/10.71781/34279>
+
+La conceptualisation et la programmation des simulations ont été réalisées sans recours à l’intelligence artificielle générative (IAg). Des outils d’IAg (ChatGPT-4.1, Claude Sonnet 4.6 et Microsoft 365 Copilot) ont été utilisés comme assistance technique pour la conception Web et la mise en ligne, ainsi que dans la révision des textes du guide pédagogique.  
+
+
